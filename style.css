@@ -72,7 +72,7 @@ body {
     color: hsl(228, 45%, 44%);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 400px) {
     .qr-component {
         width: 85%;
     }
